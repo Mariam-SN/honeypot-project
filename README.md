@@ -68,4 +68,17 @@ Phase 1 ends when the attacker is **motivated to pivot**, not when exploitation 
 ---
 
 ## Repository Structure
+honeypot-project/
+├── web-portal/ # Customized web application
+├── scenario/ # Attack walkthrough and phase descriptions
+├── artifacts/ # Sample planted configuration files
+├── scripts/ # Build and run scripts (to be added)
+└── README.md
+
+---
+
+## Disclaimer
+This project is intended for **educational and research purposes only**.
+No real credentials or production systems are involved.
+
 
