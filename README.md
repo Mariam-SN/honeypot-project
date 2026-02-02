@@ -1,7 +1,5 @@
-# honeypot-project
-Educational Kubernetes honeypot project – Phase 1 &amp; Phase 2
-
 # Honeypot Project – Phase 1 & Phase 2
+Educational Kubernetes honeypot project – Phase 1 &amp; Phase 2
 
 ## Overview
 This project implements a **deceptive honeypot environment** designed to observe attacker behavior
